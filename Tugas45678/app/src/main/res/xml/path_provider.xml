@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="CRUD_Basic"
+        path="/">
+    </files-path>
+    <cache-path
+        name="CRUD_Basic_cache"
+        path="/">
+    </cache-path>
+    <external-files-path
+        name="CRUD_Basic_Ext"
+        path="/">
+    </external-files-path>
+    <external-cache-path
+        name="CRUD_Basic_Ext_cache"
+        path="/">
+    </external-cache-path>
+</paths>
